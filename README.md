@@ -3,4 +3,4 @@ Just another repository
 
 Hello.
 
-Trying to learn for about coding. Looking forward to experimenting on github.
+Trying to learn more about coding. Looking forward to experimenting on github.
